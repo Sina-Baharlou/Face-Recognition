@@ -10,7 +10,7 @@ in functions of artificial neural network, and K nearest-neighbors are used as t
 method. Also two popular databases for face recognition (Yale and ORL) are used here in order to
 test the accuracy of the implemented methods.
 
-
+#### Authors: Sid Ali Rezetane, Sina M. Baharlou, Harold Agudelo
 ### How to run 
 
 Download Yale and ORL face datasets; set the parameters in 'nnTest.m' and 'KnnTest.m' and run them with matlab.
