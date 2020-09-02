@@ -1,5 +1,6 @@
-### Face Recognition using Independent Component Analysis (ICA)
+## Face Recognition using Independent Component Analysis (ICA)
 
+### Introduction
 Face recognition is one of the most familiar applications of image analysis and has gained
 much attention in recent years. Several computational methods are implemented in this field,
 appearance-based subspace analysis still gives the most promising results. This project is
@@ -10,9 +11,22 @@ in functions of artificial neural network, and K nearest-neighbors are used as t
 method. Also two popular databases for face recognition (Yale and ORL) are used here in order to
 test the accuracy of the implemented methods.
 
-#### Authors: Sid Ali Rezetane, Sina M. Baharlou, Harold Agudelo
+### Approach
+<p align="center"><img src="docs/approach.png" width="640" title="Approach"></p>
+
+### Results
+The qualitative results of ORL database. (left) The first twenty-five eigenfaces, (middle) the first twenty-five
+statistically independent basis images from first architecture, (right) the first twenty-five statistically independent
+basis images from second architecture (ICA factorial representation).
+<p align="center"><img src="docs/results.png" width="720" title="Approach"></p>
+
+### Authors: 
+Sid Ali Rezetane, Sina M. Baharlou, Harold Agudelo
+
 ### How to run 
 
-Download Yale and ORL face datasets; set the parameters in 'nnTest.m' and 'KnnTest.m' and run them with matlab.
+Download Yale and ORL face datasets; set the parameters in `nnTest.m` and `KnnTest.m` and run them with matlab.
+
+
 
 
