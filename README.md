@@ -21,7 +21,8 @@ basis images from second architecture (ICA factorial representation).
 <p align="center"><img src="docs/results.png" width="720" title="Approach"></p>
 
 ### Authors: 
-Sid Ali Rezetane, Sina M. Baharlou, Harold Agudelo
+Sid Ali Rezetane, Sina M. Baharlou, Harold Agudelo</br>
+Adviser: Prof. Aurelio Uncini
 
 ### How to run 
 
